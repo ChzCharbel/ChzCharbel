@@ -35,7 +35,5 @@ Currently working on:
 ### ⭐ Fun fact
 When I'm not coding, I’m learning about ML, quant finance, maths and playing different sports like soccer, paddle or tennis.
 
----
-
 [![](https://visitcount.itsvg.in/api?id=ChzCharbel&icon=0&color=0)](https://visitcount.itsvg.in)
 
