@@ -3,8 +3,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Engineering student at Tecnológico de Monterrey** focused on  
-**Machine Learning, Data Science and Full-Stack Web Development**.
+I'm a **Computer Engineering student at Tecnológico de Monterrey** focused on **Machine Learning, Data Science and Full-Stack Web Development**.
 
 I enjoy building **scalable applications**, applying **machine learning to real-world problems**, and working on projects that combine **data, algorithms, and software engineering**.
 
